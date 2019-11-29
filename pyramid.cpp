@@ -1,4 +1,4 @@
-// C++ code to demonstrate star pattern 
+// C++ code to demonstrate pyramid pattern using nested loops
 #include <iostream> 
 using namespace std; 
 
